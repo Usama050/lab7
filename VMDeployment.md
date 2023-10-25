@@ -7,3 +7,9 @@ To download VirtualBox refer to the **official website**:
 
 The version of the installed VirtualBox on my system:
 > VirtualBox 7.0
+
+
+![Alt text](lab71.png)
+
+
+
