@@ -29,3 +29,9 @@ For **Type** select **Linux** and select the **Version** which in my case is **O
 11. Run your virtual machine and enjoy:))
 
 
+
+![Alt text](lab72.png)
+
+
+
+
