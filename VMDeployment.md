@@ -35,3 +35,11 @@ For **Type** select **Linux** and select the **Version** which in my case is **O
 
 
 
+
+
+![Alt text](lab7t1.png)
+
+
+
+
+
