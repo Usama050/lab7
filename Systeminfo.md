@@ -6,3 +6,15 @@
 
 ### To check the processor model and basic information:
 > lscpu
+
+
+![Alt text](labu01.png)
+
+
+
+
+![Alt text](lab7u1.png)
+
+
+
+
