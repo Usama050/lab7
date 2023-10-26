@@ -17,4 +17,18 @@
 
 
 
+## 2. RAM (Memory) Information:
 
+### To check the total available memory and usage statistics:
+> free -h
+
+
+![Alt text](lab7ram.png)
+
+
+## 3. Network Information:
+
+### To check network interfaces and their status:
+> ip addr show
+
+![Alt text](lab7ip.png)
